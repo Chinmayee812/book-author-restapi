@@ -1,2 +1,2 @@
-# book-author-restapi
-Writing Web application using Rest services
+# book-author-rest
+Demo project for REST Principle
